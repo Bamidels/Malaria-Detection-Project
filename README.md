@@ -1,4 +1,4 @@
-# Malaria-Detection-Project
+# Malaria-Detection-CNN / Deep Learning
 Malaria Detection using CNN
 This project aims to detect the presence of malaria parasites in a given image of blood cells. The dataset used in this project can be downloaded from the link https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria. The project uses deep learning techniques to build a Convolutional Neural Network (CNN) model to classify the images into parasitized and uninfected cells.
 
